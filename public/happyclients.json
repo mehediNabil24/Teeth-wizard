@@ -1,0 +1,51 @@
+[
+    {
+      "reviewId": 1,
+      "name": "Alice Johnson",
+      "userImg": "https://example.com/images/alice.jpg",
+      "review": "Excellent service! The staff was friendly, and the procedure was painless. Highly recommend."
+    },
+    {
+      "reviewId": 2,
+      "name": "Michael Smith",
+      "userImg": "https://example.com/images/michael.jpg",
+      "review": "Great experience. The dentist explained everything clearly and made me feel comfortable throughout."
+    },
+    {
+      "reviewId": 3,
+      "name": "Sophia Williams",
+      "userImg": "https://example.com/images/sophia.jpg",
+      "review": "The clinic was clean and well-organized. I appreciated the quick service and attention to detail."
+    },
+    {
+      "reviewId": 4,
+      "name": "James Brown",
+      "userImg": "https://example.com/images/james.jpg",
+      "review": "Good experience overall, but the waiting time was a bit longer than expected. Still, the care was top-notch."
+    },
+    {
+      "reviewId": 5,
+      "name": "Emily Davis",
+      "userImg": "https://example.com/images/emily.jpg",
+      "review": "The dentist was very patient and addressed all my concerns. I’m very happy with the results."
+    },
+    {
+      "reviewId": 6,
+      "name": "Daniel Garcia",
+      "userImg": "https://example.com/images/daniel.jpg",
+      "review": "Had a root canal treatment here. It was surprisingly smooth and not as scary as I thought. Thanks to the amazing team!"
+    },
+    {
+      "reviewId": 7,
+      "name": "Olivia Martinez",
+      "userImg": "https://example.com/images/olivia.jpg",
+      "review": "The teeth whitening procedure worked wonders for my smile. I feel more confident now. Thank you!"
+    },
+    {
+      "reviewId": 8,
+      "name": "Ethan Lee",
+      "userImg": "https://example.com/images/ethan.jpg",
+      "review": "Professional and efficient. The dental implant process was explained well and executed flawlessly."
+    }
+  ]
+  

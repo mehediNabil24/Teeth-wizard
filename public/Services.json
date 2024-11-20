@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "treatment": "Teeth Cleaning",
+      "image": "https://i.ibb.co.com/sFpC1Yt/id1671.jpg",
+      "description": "A professional cleaning to remove plaque and tartar, leaving your teeth spotless.",
+      "cost": 75
+    },
+    {
+      "id": 2,
+      "treatment": "Cavity Filling",
+      "image": "https://example.com/images/cavity_filling.jpg",
+      "description": "Restoration of a tooth damaged by decay using composite or amalgam materials.",
+      "cost": 120
+    },
+    {
+      "id": 3,
+      "treatment": "Tooth Extraction",
+      "image": "https://example.com/images/tooth_extraction.jpg",
+      "description": "Removal of a damaged or decayed tooth to improve oral health.",
+      "cost": 200
+    },
+    {
+      "id": 4,
+      "treatment": "Dental Implant",
+      "image": "https://example.com/images/dental_implant.jpg",
+      "description": "A permanent solution for missing teeth, consisting of a titanium post and crown.",
+      "cost": 2500
+    },
+    {
+      "id": 5,
+      "treatment": "Root Canal Treatment",
+      "image": "https://example.com/images/root_canal.jpg",
+      "description": "Treatment to save a severely infected or damaged tooth by removing the pulp.",
+      "cost": 800
+    },
+    {
+      "id": 6,
+      "treatment": "Teeth Whitening",
+      "image": "https://example.com/images/teeth_whitening.jpg",
+      "description": "A cosmetic procedure to brighten your teeth and enhance your smile.",
+      "cost": 150
+    },
+    {
+      "id": 7,
+      "treatment": "Braces Consultation",
+      "image": "https://example.com/images/braces_consultation.jpg",
+      "description": "Initial consultation to assess the need for orthodontic treatment.",
+      "cost": 50
+    },
+    {
+      "id": 8,
+      "treatment": "Dental X-Ray",
+      "image": "https://example.com/images/dental_xray.jpg",
+      "description": "Diagnostic imaging to identify issues not visible during a regular exam.",
+      "cost": 100
+    }
+  ]
+  
